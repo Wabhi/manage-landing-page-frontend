@@ -1,2 +1,2 @@
-# manage-landing-page-frontend
+# manage-landing-page
 Created with CodeSandbox
